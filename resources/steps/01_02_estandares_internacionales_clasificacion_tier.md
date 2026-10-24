@@ -1,13 +1,13 @@
 ## 📌 Paso 2: Estándares Internacionales y Clasificación TIER (ANSI/TIA-942)
 
-### 1. Mensaje introductorio para tus estudiantes (Guion de Clase)
+### 1. Introducción
 
 > *"¡Hola a todos! En el paso anterior definimos los requerimientos de software de LogiExpress S.A. y entendimos que nuestra aplicación necesita una alta disponibilidad ($99.9\%$). Ahora surge la pregunta del millón: **¿Cómo construimos o elegimos un Data Center sin adivinar ni 'inventar la rueda'?**
 > Para eso existen los estándares internacionales. Hoy aprenderemos a utilizar la norma **ANSI/TIA-942**, que es la guía definitiva en ingeniería para diseñar la arquitectura física, eléctrica y de telecomunicaciones de un Data Center. Veremos los **Niveles TIER**, que nos indican qué tan 'a prueba de fallas' es una infraestructura."*
 
 ---
 
-### 2. Conceptos Clave que debes enseñarles
+### 2. Conceptos Clave:
 
 #### A. ¿Qué es la norma ANSI/TIA-942?
 
