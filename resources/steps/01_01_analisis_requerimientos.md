@@ -47,8 +47,6 @@
 
 ### 3. Matriz de Mapeo: Del Requerimiento de Software al Componente de Infraestructura
 
-Muéstrales esta tabla a tus estudiantes para que entiendan la relación directa entre el desarrollo y el hardware:
-
 | Requerimiento del Software (LogiExpress S.A.) | Impacto / Requerimiento en Infraestructura Física |
 | --- | --- |
 | La API de rastreo no puede detenerse por apagones eléctricos. | **UPS de doble conversión en línea** + **Planta eléctrica a diésel** con autonomía mínima de 24h. |
