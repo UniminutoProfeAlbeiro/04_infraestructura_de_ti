@@ -1,7 +1,3 @@
-Aquí tienes la guía explicativa y práctica detallada para el **Paso 3: Diseño de los Subsistemas del Data Center**, adaptada para que la dictes a tus estudiantes. En este paso se aterriza la infraestructura física a través de sus cuatro pilares fundamentales: **Cableado Estructurado**, **Sistema Eléctrico**, **Climatización (HVAC)** y **Seguridad Física/Sostenibilidad**.
-
----
-
 ## 📌 Paso 3: Diseño de los Subsistemas Clave del Data Center
 
 ### 1. Introducción
