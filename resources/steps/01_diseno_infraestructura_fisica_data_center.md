@@ -13,7 +13,7 @@
 #### **Paso 1: Análisis de Requerimientos y Carga (El Negocio y el Software)**
 
 * **Qué hacer:** Identificar qué servicios de software correrán allí (ej. bases de datos relacionales, APIs de rastreo, sistema ERP).
-* **Para ti como profe de software:** Explícales que la infraestructura existe *para garantizar que el software no falle*. Si el software requiere alta disponibilidad (24/7), la infraestructura física debe respaldarlo.
+* **Explicación:** La infraestructura existe *para garantizar que el software no falle*. Si el software requiere alta disponibilidad (24/7), la infraestructura física debe respaldarlo.
 
 #### **Paso 2: Selección de la Norma Internacional (Estándar ANSI/TIA-942)**
 
@@ -36,11 +36,3 @@ Los estudiantes deben desglosar el diseño físico estructurado en componentes c
 
 * **Blueprint / Diagrama Topológico:** Un plano esquemático (pueden usar herramientas gratuitas como *Lucidchart*, *Draw.io* o incluso un plano bien estructurado) que muestre la distribución física del Data Center de LogiExpress.
 * **Documento Técnico Breve:** Justificando por qué eligieron ese nivel TIER y cómo cada subsistema cumple con la norma ANSI/TIA-942.
-
----
-
-### 💬 ¿Cómo procedemos?
-
-Tómate tu tiempo para revisar este planteamiento, ensáyalo o dime qué dudas tienes sobre los conceptos de TIER, cableado o climatización para explicártelos desde una perspectiva lógica de ingeniería de sistemas.
-
-Recuerda: **No avanzaremos al Corte 2 hasta que me escribas la palabra "siguiente"**. ¿Qué te parece este enfoque para el primer corte?
