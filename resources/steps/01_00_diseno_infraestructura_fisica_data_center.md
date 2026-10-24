@@ -13,13 +13,13 @@
 #### **Paso 1: Análisis de Requerimientos y Carga (El Negocio y el Software)**
 
 * **Qué hacer:** Identificar qué servicios de software correrán allí (ej. bases de datos relacionales, APIs de rastreo, sistema ERP).
-* **Explicación:** La infraestructura existe *para garantizar que el software no falle*. Si el software requiere alta disponibilidad (24/7), la infraestructura física debe respaldarlo.
+* **Aclaración:** La infraestructura existe *para garantizar que el software no falle*. Si el software requiere alta disponibilidad (24/7), la infraestructura física debe respaldarlo.
 
 #### **Paso 2: Selección de la Norma Internacional (Estándar ANSI/TIA-942)**
 
-* **Qué hacer:** Los estudiantes deben investigar la norma **ANSI/TIA-942** (*Telecommunications Infrastructure Standard for Data Centers*).
+* **Qué hacer:** Investigar la norma **ANSI/TIA-942** (*Telecommunications Infrastructure Standard for Data Centers*).
 * **Ejercicio práctico:** Deben decidir qué **Nivel TIER** (Tier I, II, III o IV) necesita *LogiExpress S.A.*
-* **Explicación:** Como es una empresa de distribución nacional que no puede parar, un **Tier III** (mantenimiento concurrente, redundancia N+1) es el punto óptimo de discusión.
+* **Aclaración:** Como es una empresa de distribución nacional que no puede parar, un **Tier III** (mantenimiento concurrente, redundancia N+1) es el punto óptimo de discusión.
 
 
 
