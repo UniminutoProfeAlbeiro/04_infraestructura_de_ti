@@ -76,8 +76,6 @@ Presentales el siguiente dilema de toma de decisiones de ingeniería:
 
 ### 4. Recursos Sugeridos para Hacer el Paso 2 Práctico en Clase (120 Minutos)
 
-#### ⏱️ Estructura de la Sesión Práctica
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                    ACTIVIDAD PRÁCTICA - CORTE 1 (PASO 2)                │
