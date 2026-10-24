@@ -172,22 +172,3 @@ Presenta el siguiente diseño integrado a tus estudiantes:
 
 * **Crisis B:** *"Se produce un connato de incendio en el Rack 2 por una fuente defectuosa."*
 * *Respuesta esperada:* El sensor VESDA detecta el humo, activa la alarma, cierra los dampers de aire acondicionado e inyecta gas Novec 1230 para ahogar el fuego sin dañar los servidores ni mojar el suelo.
-
-
-
-
-
----
-
-### 💡 Consolidación del Entregable del Corte 1
-
-Con el paso 3 completado, tus estudiantes ya tienen **todo el material requerido para cerrar el primer corte** acorde a las reglas del Acuerdo Pedagógico:
-
-1. **Documento Escrito (UN_01_EN):**
-* Paso 1: Análisis de Requerimientos y SLA del software.
-* Paso 2: Elección y justificación del estándar TIA-942 TIER III.
-* Paso 3: Diagramas de los 4 subsistemas (red, energía, clima, incendios) y plano físico.
-
-
-2. **Vídeo de Sustentación (UN_01_EX):**
-* Un vídeo corto de 3 minutos donde el equipo presenta el blueprint y simula la resolución de una falla en el Data Center.

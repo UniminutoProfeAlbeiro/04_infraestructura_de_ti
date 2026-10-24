@@ -32,7 +32,7 @@ Desglosar el diseño físico estructurado en componentes clave:
 3. **Climatización (HVAC):** Control preciso de temperatura y humedad (pasillos fríos / pasillos calientes) para evitar daños en los servidores.
 4. **Seguridad Física y Monitoreo:** Control de acceso biométrico, cámaras CCTV y sistemas de detección/extinción de incendios (ej. agentes limpios).
 
-#### **Paso 4: El Entregable del Estudiante**
+#### **Paso 4: Entregable**
 
 * **Blueprint / Diagrama Topológico:** Un plano esquemático (pueden usar herramientas gratuitas como *Lucidchart*, *Draw.io* o incluso un plano bien estructurado) que muestre la distribución física del Data Center de LogiExpress.
 * **Documento Técnico Breve:** Justificando por qué eligieron ese nivel TIER y cómo cada subsistema cumple con la norma ANSI/TIA-942.
