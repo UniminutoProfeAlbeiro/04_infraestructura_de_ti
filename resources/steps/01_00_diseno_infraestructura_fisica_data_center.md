@@ -6,7 +6,7 @@
 
 ---
 
-### 2. Paso a Paso
+### 2. Descripción General
 
 **RAC_01**: *Explica los distintos componentes, funcionalidad y dispositivos utilizados en un despliegue de TI, teniendo en cuenta las normas internacionales*:
 
