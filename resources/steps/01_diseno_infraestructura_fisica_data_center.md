@@ -1,14 +1,14 @@
-## 🏗️ Corte 1: Caso de Estudio y Guía Práctica
+## 🏗️ Corte 1: Diseño de Infraestructura Física y Data Center
 
 ### 1. El Caso de Estudio: *"LogiExpress S.A."*
 
-> **Contexto para tus estudiantes:** *LogiExpress S.A.* es una empresa colombiana de logística y distribución nacional. Debido a la expansión de sus operaciones, su sistema de rastreo de flotas en tiempo real (software crítico) y su base de datos de envíos sufren caídas constantes por fallas eléctricas y falta de capacidad en su cuarto de servidores actual. La gerencia ha decidido diseñar desde cero un **Data Center moderno** ubicado en su sede principal.
+> **Contexto:** *LogiExpress S.A.* es una empresa colombiana de logística y distribución nacional. Debido a la expansión de sus operaciones, su sistema de rastreo de flotas en tiempo real (software crítico) y su base de datos de envíos sufren caídas constantes por fallas eléctricas y falta de capacidad en su cuarto de servidores actual. La gerencia ha decidido diseñar desde cero un **Data Center moderno** ubicado en su sede principal.
 
 ---
 
-### 2. Paso a Paso para Resolver y Enseñar el Caso
+### 2. Paso a Paso
 
-Para cumplir con el Resultado de Aprendizaje (**RAC_01**: *Explica los distintos componentes, funcionalidad y dispositivos utilizados en un despliegue de TI, teniendo en cuenta las normas internacionales*), tú y tus estudiantes deben seguir estos **4 pasos prácticos**:
+**RAC_01**: *Explica los distintos componentes, funcionalidad y dispositivos utilizados en un despliegue de TI, teniendo en cuenta las normas internacionales*:
 
 #### **Paso 1: Análisis de Requerimientos y Carga (El Negocio y el Software)**
 
