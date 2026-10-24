@@ -1,7 +1,3 @@
-Aquí tienes la guía explicativa y práctica detallada para el **Paso 2: Selección de la Norma Internacional y Niveles TIER (ANSI/TIA-942)**, estructurada exactamente con el lenguaje, conceptos y dinámica paso a paso para tus estudiantes.
-
----
-
 ## 📌 Paso 2: Estándares Internacionales y Clasificación TIER (ANSI/TIA-942)
 
 ### 1. Mensaje introductorio para tus estudiantes (Guion de Clase)
