@@ -1,6 +1,6 @@
-### **📌 Plan de Actividades Entregables (1 cada 3 semanas)**
+### **📌 Plan de Actividades Entregables**
 
-#### **1\. Corte 1 (Semanas 1 a 3): Diseño de Infraestructura Física y Data Center**
+#### **1\. Corte 1: Diseño de Infraestructura Física y Data Center**
 
 * **Resultado de Aprendizaje (RAC\_01):** Explica los distintos componentes, funcionalidad y dispositivos utilizados en un despliegue de TI, teniendo en cuenta normas internacionales (ANSI/TIA-942, TIER).  
 * **Nombre de la Actividad:** *Análisis Normativo y Diseño Estructural de un Data Center (Caso de Estudio).*  
@@ -9,7 +9,7 @@
   * Deben entregar un documento/blueprint arquitectónico donde propongan la topología física, la categoría/nivel TIER del Data Center (cableado estructurado, subsistema eléctrico, climatización, redundancia) acorde a la norma **ANSI/TIA-942**.  
   * **Entregable:** Informe en PDF con el plano/diagrama de la red e infraestructura física \+ Vídeo explicativo corto (3 min) sustentando sus decisiones de diseño.
 
-#### **2\. Corte 2 (Semanas 4 a 6): Infraestructura de Software y Servicios en Red**
+#### **2\. Corte 2: Infraestructura de Software y Servicios en Red**
 
 * **Resultado de Aprendizaje (RAC\_02):** Demuestra el funcionamiento de un sistema operativo mediante la configuración de servicios en un servidor.  
 * **Nombre de la Actividad:** *Despliegue y Configuración de un Entorno Cliente-Servidor Multicapa.*  
@@ -21,7 +21,7 @@
     3. Un cliente que consuma un servicio/app conectándose a la base de datos y al servicio web.  
   * **Entregable:** Repositorio/manual paso a paso con capturas y comandos de la configuración de red y servicios \+ Vídeo demostrativo del funcionamiento del modelo cliente-servidor bajo carga simulada.
 
-#### **3\. Corte 3 (Semanas 7 a 9): Administración, Virtualización y Riesgos en la Nube**
+#### **3\. Corte 3: Administración, Virtualización y Riesgos en la Nube**
 
 * **Resultado de Aprendizaje (RAC\_03):** Analiza el funcionamiento de los componentes de la arquitectura TI mediante la resolución de un problema aplicado, considerando procesos, virtualización y gestión de riesgos.  
 * **Nombre de la Actividad:** *Simulación, Rediseño y Mitigación de Riesgos en una Arquitectura TI Virtualizada / Cloud.*  
