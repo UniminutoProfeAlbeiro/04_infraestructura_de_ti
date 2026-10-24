@@ -54,21 +54,3 @@
 | El backend genera altas temperaturas por procesamiento constante de peticiones HTTP. | Sistema de **aire acondicionado de precisión (HVAC)** configurado en pasillo frío / pasillo caliente. |
 | Interconexión segura entre la app móvil de los conductores y el Data Center. | **Firewall de hardware**, routers redundantes y conexiones de red de fibra óptica con dos proveedores (ISP) distintos. |
 
----
-
-### 4. Recursos Sugeridos para Hacer el Paso 1 Práctico en Clase
-
-Para evitar que este paso sea puramente teórico, puedes utilizar los siguientes recursos en la sesión:
-
-1. **Calculadora de SLA y Tiempo de Inactividad (*Downtime Calculator*):**
-* **Herramienta:** Utilizar sitios web gratuitos como [uptime.is](https://uptime.is/).
-* **Dinámica en clase:** Pídeles que ingresen diferentes porcentajes (99%, 99.9%, 99.99%) para que observen de forma tangible cuántos minutos u horas de caída representan al año y entiendan el costo de cada "nueve" adicional.
-
-
-2. **Uso de Herramientas de Diagramado Lógico / Arquitectura:**
-* **Herramientas:** **Draw.io (diagrams.net)** o **Lucidchart**.
-* **Dinámica en clase:** En lugar de dibujar un plano físico de entrada, pídeles que elaboren un **Diagrama Lógico de Infraestructura** mostrando cómo viaja la petición de un usuario desde su navegador/celular hasta el servidor web, el balanceador de carga y la base de datos en el Data Center.
-
-
-3. **Ejercicio Práctico en Clase - "Cacería de Puntos Únicos de Falla (SPOF)":**
-* **Dinámica:** Preséntales un diagrama simple de una aplicación web de un solo servidor y un solo switch. Pídeles que, en grupos de 3, identifiquen al menos 5 puntos únicos de falla (ej. una sola tarjeta de red, un solo cable de energía, un solo proveedor de internet) y propongan cómo duplicar/rediseñar la infraestructura para eliminar esos riesgos.
