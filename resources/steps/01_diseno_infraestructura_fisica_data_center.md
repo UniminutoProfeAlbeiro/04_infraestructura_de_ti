@@ -19,13 +19,13 @@
 
 * **Qué hacer:** Los estudiantes deben investigar la norma **ANSI/TIA-942** (*Telecommunications Infrastructure Standard for Data Centers*).
 * **Ejercicio práctico:** Deben decidir qué **Nivel TIER** (Tier I, II, III o IV) necesita *LogiExpress S.A.*
-* *Pista para orientarlos:* Como es una empresa de distribución nacional que no puede parar, un **Tier III** (mantenimiento concurrente, redundancia N+1) es el punto óptimo de discusión.
+* **Explicación:** Como es una empresa de distribución nacional que no puede parar, un **Tier III** (mantenimiento concurrente, redundancia N+1) es el punto óptimo de discusión.
 
 
 
 #### **Paso 3: Diseño de los Subsistemas del Data Center**
 
-Los estudiantes deben desglosar el diseño físico estructurado en componentes clave:
+Desglosar el diseño físico estructurado en componentes clave:
 
 1. **Cableado Estructurado:** Distribución de fibra óptica y cable UTP categoría 6A/7 entre el cuarto de telecomunicaciones (TR) y el área principal (MDA/HDA).
 2. **Sistema Eléctrico y Sostenibilidad:** UPS (sistemas de alimentación ininterrumpida), plantas eléctricas de emergencia y eficiencia energética (PUE - *Power Usage Effectiveness*).
